@@ -1,7 +1,7 @@
 # Hardhat Template [![Github Actions][gha-badge]][gha] [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license]
 
-[gha]: https://github.com/paulrberg/hardhat-template/actions
-[gha-badge]: https://github.com/paulrberg/hardhat-template/actions/workflows/ci.yml/badge.svg
+[gha]: https://github.com/sunmoon11100/hardhat-template/actions
+[gha-badge]: https://github.com/sunmoon11100/hardhat-template/actions/workflows/ci.yml/badge.svg
 [hardhat]: https://hardhat.org/
 [hardhat-badge]: https://img.shields.io/badge/Built%20with-Hardhat-FFDB1C.svg
 [license]: https://opensource.org/licenses/MIT
@@ -18,7 +18,7 @@ A Hardhat-based template for developing Solidity smart contracts, with sensible 
 
 ## Getting Started
 
-Click the [`Use this template`](https://github.com/paulrberg/hardhat-template/generate) button at the top of the page to
+Click the [`Use this template`](https://github.com/sunmoon11100/hardhat-template/generate) button at the top of the page to
 create a new repository with this repo as the initial state.
 
 ## Features
