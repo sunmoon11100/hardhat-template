@@ -1190,13 +1190,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nomiclabs/hardhat-ethers@npm:^2.1.0":
-  version: 2.1.0
-  resolution: "@nomiclabs/hardhat-ethers@npm:2.1.0"
+"@nomiclabs/hardhat-ethers@npm:^2.2.1":
+  version: 2.2.1
+  resolution: "@nomiclabs/hardhat-ethers@npm:2.2.1"
   peerDependencies:
     ethers: ^5.0.0
     hardhat: ^2.0.0
-  checksum: 16fcde7fbce0b953daa3520148b0054d4951434d39d454b13dedb795d10b89893b199f1c3ed2856c196a229fc470c6cbd3ceff5895a94f52996b99a55515525d
+  checksum: 8cdbf7068f15ee993142ab600074938d05b42af73392a5b12c8eb607a5bca2fac977a6a85955e0b0285541415ad520626e7fb3d33ca7cc112d61ee928358e2f6
   languageName: node
   linkType: hard
 
@@ -1254,7 +1254,7 @@ __metadata:
     "@nomicfoundation/hardhat-chai-matchers": ^1.0.2
     "@nomicfoundation/hardhat-network-helpers": ^1.0.3
     "@nomicfoundation/hardhat-toolbox": ^1.0.2
-    "@nomiclabs/hardhat-ethers": ^2.1.0
+    "@nomiclabs/hardhat-ethers": ^2.2.1
     "@nomiclabs/hardhat-etherscan": ^3.1.0
     "@trivago/prettier-plugin-sort-imports": ^3.3.0
     "@typechain/ethers-v5": ^10.1.0
